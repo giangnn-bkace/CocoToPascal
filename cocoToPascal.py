@@ -30,10 +30,10 @@ def instance_to_xml(ann, cat_dict):
 	return E.object(
 		E.name(cat_dict[ann['category_id']]),
 		E.bndbox(
-			E.xmin(round(xmin)),
-			E.ymin(round(ymin)),
-			E.xmax(round(xmin+width)),
-			E.ymax(round(ymin+height)),
+			E.xmin(xmin+1),
+			E.ymin(ymin+1),
+			E.xmax(xmin+width-1),
+			E.ymax(ymin+height-1),
 		),
 	)
 
