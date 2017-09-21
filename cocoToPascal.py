@@ -1,6 +1,5 @@
 from itertools import starmap
-from lxml import objectify
-import xml.etree.cElementTree as etree
+from lxml import objectify, etree
 
 from pycocotools.coco import COCO
 import numpy as np
@@ -28,12 +27,12 @@ def instance_to_xml(ann):
 	E = objectify.ElementMaker(annotate=False)
 	xmin, ymin, width, height = ann['bbox']
 	return E.object(
-		E.name(anno['category_id']),
+		E.name(ann['category_id']),
 		E.bndbox(
-			E.xmin(xmin),
-			E.ymin(ymin),
-			E.xmax(xmin+width),
-			E.ymax(ymin+height),
+			E.xmin(round(xmin)),
+			E.ymin(round(ymin)),
+			E.xmax(round(xmin+width)),
+			E.ymax(round(ymin+height)),
 		),
 	)
 
@@ -47,13 +46,14 @@ def create_annotations(dataDir, dataType, dst):
 		file_name = img['file_name']
 		annotation = root(dataDir+'/images', file_name, img['width'], img['height'])
 
-	annIds = coco.getAnnIds(img['id'])
-	anns = coco.loadAnns(annIds)
+		annIds = coco.getAnnIds(img['id'])
+		anns = coco.loadAnns(annIds)
 
-	for ann in anns:
-		annotation.append(instance_to_xml(ann))
-		etree.ElementTree(annotation).write(dst / '{}.xml'.format(file_name))
-	print (file_name)
+		for ann in anns:
+			annotation.append(instance_to_xml(ann))
+			#etree.ElementTree(annotation).write(dst / '{}.xml'.format(file_name))
+		etree.ElementTree(annotation).write(dst+'/{}.xml'.format(file_name), pretty_print=True)		
+		print (file_name)
 
 if __name__ == '__main__':
 	ap = argparse.ArgumentParser()
