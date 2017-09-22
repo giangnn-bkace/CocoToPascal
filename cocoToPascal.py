@@ -45,10 +45,11 @@ def create_annotations(dataDir, dataType, dst):
 	cat_dict = {}
 	animal_ids = range(16, 26)
 	for cat in cats:
-		if cat['id'] in animal_ids:
-			cat_dict[cat['id']] = 'animal'
-		else:
-			cat_dict[cat['id']] = cat['name']
+		cat_dict[cat['id']] = cat['supercategory']
+		#if cat['id'] in animal_ids:
+			#cat_dict[cat['id']] = 'animal'
+		#else:
+			#cat_dict[cat['id']] = cat['name']
 	imgIds = coco.getImgIds()
 	for imgId in imgIds:
 		img = coco.loadImgs(imgId)[0]
@@ -59,13 +60,12 @@ def create_annotations(dataDir, dataType, dst):
 		anns = coco.loadAnns(annIds)
 		ok = False
 		for ann in anns:
-			xmin, ymin, width, height = ann['bbox']
-			if width / img['width'] < 0.15 or height / img['height'] < 0.15:
-				annotation.append(instance_to_xml(ann, cat_dict))
-				ok = True
-		if ok:
-			etree.ElementTree(annotation).write(dst+'/{}.xml'.format(os.path.splitext(file_name)[0]), pretty_print=True)		
-			print (file_name)
+			#if cat_dict[ann['category_id']] == 'animal':
+			annotation.append(instance_to_xml(ann, cat_dict))
+			#	ok = True
+		#if ok:
+		etree.ElementTree(annotation).write(dst+'/{}.xml'.format(os.path.splitext(file_name)[0]), pretty_print=True)		
+		print (file_name)
 	
 if __name__ == '__main__':
 	ap = argparse.ArgumentParser()
