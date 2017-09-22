@@ -49,11 +49,7 @@ def create_annotations(dataDir, dataType, dst):
 			cat_dict[cat['id']] = 'animal'
 		else:
 			cat_dict[cat['id']] = cat['name']
-	with open("cats.txt", "w") as f:
-		json.dump(cats, f)
-	f.close()
 	imgIds = coco.getImgIds()
-	
 	for imgId in imgIds:
 		img = coco.loadImgs(imgId)[0]
 		file_name = img['file_name']
@@ -61,12 +57,16 @@ def create_annotations(dataDir, dataType, dst):
 
 		annIds = coco.getAnnIds(img['id'])
 		anns = coco.loadAnns(annIds)
-
+		ok = False
 		for ann in anns:
-			annotation.append(instance_to_xml(ann, cat_dict))
-		etree.ElementTree(annotation).write(dst+'/{}.xml'.format(os.path.splitext(file_name)[0]), pretty_print=True)		
-		print (file_name)
-
+			xmin, ymin, width, height = ann['bbox']
+			if width / img['width'] < 0.15 or height / img['height'] < 0.15:
+				annotation.append(instance_to_xml(ann, cat_dict))
+				ok = True
+		if ok:
+			etree.ElementTree(annotation).write(dst+'/{}.xml'.format(os.path.splitext(file_name)[0]), pretty_print=True)		
+			print (file_name)
+	
 if __name__ == '__main__':
 	ap = argparse.ArgumentParser()
 	ap.add_argument("-d", "--dataDir", required=True, help="path to annotation file")
