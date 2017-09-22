@@ -30,10 +30,10 @@ def instance_to_xml(ann, cat_dict):
 	return E.object(
 		E.name(cat_dict[ann['category_id']]),
 		E.bndbox(
-			E.xmin(xmin+1),
-			E.ymin(ymin+1),
-			E.xmax(xmin+width-1),
-			E.ymax(ymin+height-1),
+			E.xmin(xmin),
+			E.ymin(ymin),
+			E.xmax(xmin+width),
+			E.ymax(ymin+height),
 		),
 	)
 
@@ -45,11 +45,11 @@ def create_annotations(dataDir, dataType, dst):
 	cat_dict = {}
 	animal_ids = range(16, 26)
 	for cat in cats:
-		cat_dict[cat['id']] = cat['supercategory']
-		#if cat['id'] in animal_ids:
-			#cat_dict[cat['id']] = 'animal'
-		#else:
-			#cat_dict[cat['id']] = cat['name']
+		#cat_dict[cat['id']] = cat['supercategory']
+		if cat['id'] in animal_ids:
+			cat_dict[cat['id']] = 'animal'
+		else:
+			cat_dict[cat['id']] = cat['name']
 	imgIds = coco.getImgIds()
 	for imgId in imgIds:
 		img = coco.loadImgs(imgId)[0]
@@ -60,12 +60,12 @@ def create_annotations(dataDir, dataType, dst):
 		anns = coco.loadAnns(annIds)
 		ok = False
 		for ann in anns:
-			#if cat_dict[ann['category_id']] == 'animal':
-			annotation.append(instance_to_xml(ann, cat_dict))
-			#	ok = True
-		#if ok:
-		etree.ElementTree(annotation).write(dst+'/{}.xml'.format(os.path.splitext(file_name)[0]), pretty_print=True)		
-		print (file_name)
+			if cat_dict[ann['category_id']] == 'animal':
+				annotation.append(instance_to_xml(ann, cat_dict))
+				ok = True
+		if ok:
+			etree.ElementTree(annotation).write(dst+'/{}.xml'.format(os.path.splitext(file_name)[0]), pretty_print=True)		
+			print (file_name)
 	
 if __name__ == '__main__':
 	ap = argparse.ArgumentParser()
