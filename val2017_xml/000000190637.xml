@@ -15,19 +15,37 @@
   <object>
     <name>remote</name>
     <bndbox>
-      <xmin>313.66</xmin>
-      <ymin>268.87</ymin>
-      <xmax>373.24</xmax>
-      <ymax>358.15</ymax>
+      <xmin>312.66</xmin>
+      <ymin>267.87</ymin>
+      <xmax>374.24</xmax>
+      <ymax>359.15</ymax>
     </bndbox>
   </object>
   <object>
     <name>remote</name>
     <bndbox>
-      <xmin>20.22</xmin>
-      <ymin>370.8</ymin>
-      <xmax>80.13</xmax>
-      <ymax>417.78000000000003</ymax>
+      <xmin>19.22</xmin>
+      <ymin>369.8</ymin>
+      <xmax>81.13</xmax>
+      <ymax>418.78000000000003</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bed</name>
+    <bndbox>
+      <xmin>1.66</xmin>
+      <ymin>147.67</ymin>
+      <xmax>428.0</xmax>
+      <ymax>631.41</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>14.25</xmin>
+      <ymin>182.44</ymin>
+      <xmax>378.43</xmax>
+      <ymax>421.94</ymax>
     </bndbox>
   </object>
 </annotation>

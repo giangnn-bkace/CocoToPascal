@@ -13,12 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>tie</name>
+    <bndbox>
+      <xmin>186.5</xmin>
+      <ymin>332.88</ymin>
+      <xmax>308.96</xmax>
+      <ymax>581.04</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>5.5</xmin>
+      <ymin>4.13</ymin>
+      <xmax>577.62</xmax>
+      <ymax>602.37</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>dining table</name>
     <bndbox>
-      <xmin>520.54</xmin>
-      <ymin>380.56</ymin>
-      <xmax>561.74</xmax>
-      <ymax>435.2</ymax>
+      <xmin>519.54</xmin>
+      <ymin>379.56</ymin>
+      <xmax>562.74</xmax>
+      <ymax>436.2</ymax>
     </bndbox>
   </object>
 </annotation>

@@ -13,12 +13,48 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>animal</name>
+    <bndbox>
+      <xmin>202.27</xmin>
+      <ymin>102.27</ymin>
+      <xmax>359.85</xmax>
+      <ymax>346.21</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cell phone</name>
+    <bndbox>
+      <xmin>45.51</xmin>
+      <ymin>184.55</ymin>
+      <xmax>166.85</xmax>
+      <ymax>365.73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>45.61</xmin>
+      <ymin>84.88</ymin>
+      <xmax>217.06</xmax>
+      <ymax>369.51</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>2.52</xmin>
+      <ymin>2.24</ymin>
+      <xmax>456.56</xmax>
+      <ymax>365.47</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>truck</name>
     <bndbox>
-      <xmin>444.72</xmin>
-      <ymin>290.31</ymin>
-      <xmax>476.43</xmax>
-      <ymax>317.92</ymax>
+      <xmin>443.72</xmin>
+      <ymin>289.31</ymin>
+      <xmax>477.43</xmax>
+      <ymax>318.92</ymax>
     </bndbox>
   </object>
 </annotation>

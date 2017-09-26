@@ -13,12 +13,21 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>animal</name>
+    <bndbox>
+      <xmin>43.43</xmin>
+      <ymin>150.51</ymin>
+      <xmax>328.28000000000003</xmax>
+      <ymax>491.92</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>person</name>
     <bndbox>
-      <xmin>1.0</xmin>
-      <ymin>46.65</ymin>
-      <xmax>23.29</xmax>
-      <ymax>158.39</ymax>
+      <xmin>0.0</xmin>
+      <ymin>45.65</ymin>
+      <xmax>24.29</xmax>
+      <ymax>159.39</ymax>
     </bndbox>
   </object>
 </annotation>

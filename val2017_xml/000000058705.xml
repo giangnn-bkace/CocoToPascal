@@ -15,19 +15,37 @@
   <object>
     <name>tie</name>
     <bndbox>
-      <xmin>140.83</xmin>
-      <ymin>316.66</ymin>
-      <xmax>191.19</xmax>
-      <ymax>480.46000000000004</ymax>
+      <xmin>139.83</xmin>
+      <ymin>315.66</ymin>
+      <xmax>192.19</xmax>
+      <ymax>481.46000000000004</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>1.08</xmin>
+      <ymin>102.9</ymin>
+      <xmax>295.7</xmax>
+      <ymax>475.5</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>249.16</xmin>
+      <ymin>118.32</ymin>
+      <xmax>640.0</xmax>
+      <ymax>473.02</ymax>
     </bndbox>
   </object>
   <object>
     <name>banana</name>
     <bndbox>
-      <xmin>46.22</xmin>
-      <ymin>194.23</ymin>
-      <xmax>88.15</xmax>
-      <ymax>288.35</ymax>
+      <xmin>45.22</xmin>
+      <ymin>193.23</ymin>
+      <xmax>89.15</xmax>
+      <ymax>289.35</ymax>
     </bndbox>
   </object>
 </annotation>

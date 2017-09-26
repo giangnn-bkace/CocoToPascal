@@ -13,21 +13,48 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>dining table</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>1.44</ymin>
+      <xmax>640.0</xmax>
+      <ymax>640.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>knife</name>
+    <bndbox>
+      <xmin>1.43</xmin>
+      <ymin>0.0</ymin>
+      <xmax>121.7</xmax>
+      <ymax>257.86</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>spoon</name>
     <bndbox>
-      <xmin>1.44</xmin>
-      <ymin>328.58</ymin>
-      <xmax>40.96</xmax>
-      <ymax>361.95</ymax>
+      <xmin>0.44</xmin>
+      <ymin>327.58</ymin>
+      <xmax>41.96</xmax>
+      <ymax>362.95</ymax>
     </bndbox>
   </object>
   <object>
     <name>orange</name>
     <bndbox>
-      <xmin>250.2</xmin>
-      <ymin>247.27</ymin>
-      <xmax>298.03</xmax>
-      <ymax>326.9</ymax>
+      <xmin>296.11</xmin>
+      <ymin>244.78</ymin>
+      <xmax>403.79</xmax>
+      <ymax>344.94</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>orange</name>
+    <bndbox>
+      <xmin>249.2</xmin>
+      <ymin>246.27</ymin>
+      <xmax>299.03</xmax>
+      <ymax>327.9</ymax>
     </bndbox>
   </object>
 </annotation>

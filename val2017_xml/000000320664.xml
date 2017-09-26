@@ -13,21 +13,48 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>dining table</name>
+    <bndbox>
+      <xmin>2.16</xmin>
+      <ymin>0.0</ymin>
+      <xmax>640.0</xmax>
+      <ymax>472.27</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>fork</name>
     <bndbox>
-      <xmin>2.08</xmin>
-      <ymin>195.91</ymin>
-      <xmax>106.87</xmax>
-      <ymax>259.7</ymax>
+      <xmin>1.08</xmin>
+      <ymin>194.91</ymin>
+      <xmax>107.87</xmax>
+      <ymax>260.7</ymax>
     </bndbox>
   </object>
   <object>
     <name>knife</name>
     <bndbox>
-      <xmin>404.42</xmin>
-      <ymin>142.3</ymin>
-      <xmax>639.0</xmax>
-      <ymax>188.84</ymax>
+      <xmin>403.42</xmin>
+      <ymin>141.3</ymin>
+      <xmax>640.0</xmax>
+      <ymax>189.84</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>spoon</name>
+    <bndbox>
+      <xmin>255.64</xmin>
+      <ymin>1.83</ymin>
+      <xmax>402.34</xmax>
+      <ymax>123.72</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>hot dog</name>
+    <bndbox>
+      <xmin>160.38</xmin>
+      <ymin>208.94</ymin>
+      <xmax>359.15</xmax>
+      <ymax>474.35</ymax>
     </bndbox>
   </object>
 </annotation>

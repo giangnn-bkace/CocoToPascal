@@ -15,10 +15,28 @@
   <object>
     <name>animal</name>
     <bndbox>
-      <xmin>163.88</xmin>
-      <ymin>226.81</ymin>
-      <xmax>230.06</xmax>
-      <ymax>317.23</ymax>
+      <xmin>162.88</xmin>
+      <ymin>225.81</ymin>
+      <xmax>231.06</xmax>
+      <ymax>318.23</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>truck</name>
+    <bndbox>
+      <xmin>85.11</xmin>
+      <ymin>0.0</ymin>
+      <xmax>500.0</xmax>
+      <ymax>368.84</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bed</name>
+    <bndbox>
+      <xmin>304.87</xmin>
+      <ymin>202.44</ymin>
+      <xmax>386.69</xmax>
+      <ymax>298.86</ymax>
     </bndbox>
   </object>
 </annotation>

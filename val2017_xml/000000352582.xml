@@ -13,12 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>112.43</xmin>
+      <ymin>195.32</ymin>
+      <xmax>327.21000000000004</xmax>
+      <ymax>633.51</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>256.0</ymin>
+      <xmax>80.54</xmax>
+      <ymax>632.81</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>frisbee</name>
     <bndbox>
-      <xmin>172.63</xmin>
-      <ymin>425.03</ymin>
-      <xmax>256.52</xmax>
-      <ymax>463.7</ymax>
+      <xmin>171.63</xmin>
+      <ymin>424.03</ymin>
+      <xmax>257.52</xmax>
+      <ymax>464.7</ymax>
     </bndbox>
   </object>
 </annotation>

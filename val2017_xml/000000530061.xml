@@ -13,21 +13,66 @@
   </size>
   <segmented>0</segmented>
   <object>
-    <name>spoon</name>
+    <name>couch</name>
     <bndbox>
-      <xmin>167.97</xmin>
-      <ymin>256.4</ymin>
-      <xmax>187.07999999999998</xmax>
-      <ymax>305.3</ymax>
+      <xmin>0.0</xmin>
+      <ymin>80.9</ymin>
+      <xmax>139.25</xmax>
+      <ymax>248.58</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chair</name>
+    <bndbox>
+      <xmin>512.39</xmin>
+      <ymin>226.99</ymin>
+      <xmax>639.46</xmax>
+      <ymax>446.29</ymax>
     </bndbox>
   </object>
   <object>
     <name>person</name>
     <bndbox>
-      <xmin>1.0</xmin>
-      <ymin>135.8</ymin>
-      <xmax>94.09</xmax>
-      <ymax>264.67</ymax>
+      <xmin>82.82</xmin>
+      <ymin>22.49</ymin>
+      <xmax>621.6600000000001</xmax>
+      <ymax>446.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>spoon</name>
+    <bndbox>
+      <xmin>166.97</xmin>
+      <ymin>255.4</ymin>
+      <xmax>188.07999999999998</xmax>
+      <ymax>306.3</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bowl</name>
+    <bndbox>
+      <xmin>86.89</xmin>
+      <ymin>243.7</ymin>
+      <xmax>329.09</xmax>
+      <ymax>416.42999999999995</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>134.8</ymin>
+      <xmax>95.09</xmax>
+      <ymax>265.67</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dining table</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>253.02</ymin>
+      <xmax>640.0</xmax>
+      <ymax>455.0</ymax>
     </bndbox>
   </object>
 </annotation>

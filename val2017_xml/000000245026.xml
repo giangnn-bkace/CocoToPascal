@@ -13,21 +13,39 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>178.58</xmin>
+      <ymin>32.95</ymin>
+      <xmax>424.95000000000005</xmax>
+      <ymax>307.02</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>cup</name>
     <bndbox>
-      <xmin>523.21</xmin>
-      <ymin>344.08</ymin>
-      <xmax>584.7</xmax>
-      <ymax>420.0</ymax>
+      <xmin>522.21</xmin>
+      <ymin>343.08</ymin>
+      <xmax>585.7</xmax>
+      <ymax>421.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cake</name>
+    <bndbox>
+      <xmin>191.42</xmin>
+      <ymin>270.62</ymin>
+      <xmax>430.7</xmax>
+      <ymax>405.58000000000004</ymax>
     </bndbox>
   </object>
   <object>
     <name>book</name>
     <bndbox>
-      <xmin>518.19</xmin>
-      <ymin>358.06</ymin>
-      <xmax>630.1300000000001</xmax>
-      <ymax>398.28</ymax>
+      <xmin>517.19</xmin>
+      <ymin>357.06</ymin>
+      <xmax>631.1300000000001</xmax>
+      <ymax>399.28</ymax>
     </bndbox>
   </object>
 </annotation>

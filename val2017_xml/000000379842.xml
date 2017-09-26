@@ -13,12 +13,39 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>remote</name>
+    <bndbox>
+      <xmin>369.71</xmin>
+      <ymin>2.43</ymin>
+      <xmax>563.87</xmax>
+      <ymax>318.74</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>book</name>
     <bndbox>
-      <xmin>271.7</xmin>
-      <ymin>23.32</ymin>
-      <xmax>336.44</xmax>
-      <ymax>351.25</ymax>
+      <xmin>343.66</xmin>
+      <ymin>20.72</ymin>
+      <xmax>619.69</xmax>
+      <ymax>360.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>book</name>
+    <bndbox>
+      <xmin>7.5</xmin>
+      <ymin>1.41</ymin>
+      <xmax>315.0</xmax>
+      <ymax>353.91</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>book</name>
+    <bndbox>
+      <xmin>270.7</xmin>
+      <ymin>22.32</ymin>
+      <xmax>337.44</xmax>
+      <ymax>352.25</ymax>
     </bndbox>
   </object>
 </annotation>

@@ -13,12 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>bed</name>
+    <bndbox>
+      <xmin>5.31</xmin>
+      <ymin>2.66</ymin>
+      <xmax>640.0</xmax>
+      <ymax>393.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>65.35</xmin>
+      <ymin>96.26</ymin>
+      <xmax>546.67</xmax>
+      <ymax>315.28000000000003</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>clock</name>
     <bndbox>
-      <xmin>249.01</xmin>
-      <ymin>72.25</ymin>
-      <xmax>261.25</xmax>
-      <ymax>84.49</ymax>
+      <xmin>248.01</xmin>
+      <ymin>71.25</ymin>
+      <xmax>262.25</xmax>
+      <ymax>85.49</ymax>
     </bndbox>
   </object>
 </annotation>

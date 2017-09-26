@@ -13,12 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>sandwich</name>
+    <bndbox>
+      <xmin>0.96</xmin>
+      <ymin>54.82</ymin>
+      <xmax>597.2800000000001</xmax>
+      <ymax>399.15</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>cup</name>
     <bndbox>
-      <xmin>73.34</xmin>
-      <ymin>1.0</ymin>
-      <xmax>224.27</xmax>
-      <ymax>34.82</ymax>
+      <xmin>72.34</xmin>
+      <ymin>0.0</ymin>
+      <xmax>225.27</xmax>
+      <ymax>35.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bowl</name>
+    <bndbox>
+      <xmin>1.11</xmin>
+      <ymin>43.17</ymin>
+      <xmax>639.22</xmax>
+      <ymax>421.14000000000004</ymax>
     </bndbox>
   </object>
 </annotation>

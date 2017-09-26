@@ -13,39 +13,75 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>animal</name>
+    <bndbox>
+      <xmin>114.11</xmin>
+      <ymin>210.28</ymin>
+      <xmax>256.75</xmax>
+      <ymax>294.02</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>couch</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>89.13</ymin>
+      <xmax>333.0</xmax>
+      <ymax>422.21999999999997</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>laptop</name>
+    <bndbox>
+      <xmin>424.13</xmin>
+      <ymin>177.77</ymin>
+      <xmax>543.54</xmax>
+      <ymax>259.92</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>remote</name>
     <bndbox>
-      <xmin>138.83</xmin>
-      <ymin>308.31</ymin>
-      <xmax>230.41000000000003</xmax>
-      <ymax>327.93</ymax>
+      <xmin>137.83</xmin>
+      <ymin>307.31</ymin>
+      <xmax>231.41000000000003</xmax>
+      <ymax>328.93</ymax>
     </bndbox>
   </object>
   <object>
     <name>cup</name>
     <bndbox>
-      <xmin>176.04</xmin>
-      <ymin>95.81</ymin>
-      <xmax>211.64</xmax>
-      <ymax>140.17000000000002</ymax>
+      <xmin>175.04</xmin>
+      <ymin>94.81</ymin>
+      <xmax>212.64</xmax>
+      <ymax>141.17000000000002</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>couch</name>
+    <bndbox>
+      <xmin>491.29</xmin>
+      <ymin>48.94</ymin>
+      <xmax>639.0600000000001</xmax>
+      <ymax>257.15999999999997</ymax>
     </bndbox>
   </object>
   <object>
     <name>book</name>
     <bndbox>
-      <xmin>600.5</xmin>
-      <ymin>278.18</ymin>
-      <xmax>638.45</xmax>
-      <ymax>306.77</ymax>
+      <xmin>599.5</xmin>
+      <ymin>277.18</ymin>
+      <xmax>639.45</xmax>
+      <ymax>307.77</ymax>
     </bndbox>
   </object>
   <object>
     <name>book</name>
     <bndbox>
-      <xmin>576.31</xmin>
-      <ymin>276.98</ymin>
-      <xmax>638.5</xmax>
-      <ymax>312.5</ymax>
+      <xmin>575.31</xmin>
+      <ymin>275.98</ymin>
+      <xmax>639.5</xmax>
+      <ymax>313.5</ymax>
     </bndbox>
   </object>
 </annotation>

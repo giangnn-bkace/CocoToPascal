@@ -13,39 +13,66 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>tv</name>
+    <bndbox>
+      <xmin>245.95</xmin>
+      <ymin>5.88</ymin>
+      <xmax>595.04</xmax>
+      <ymax>243.9</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>bottle</name>
     <bndbox>
-      <xmin>204.2</xmin>
-      <ymin>154.2</ymin>
-      <xmax>253.0</xmax>
-      <ymax>324.27</ymax>
+      <xmin>203.2</xmin>
+      <ymin>153.2</ymin>
+      <xmax>254.0</xmax>
+      <ymax>325.27</ymax>
     </bndbox>
   </object>
   <object>
     <name>cup</name>
     <bndbox>
-      <xmin>53.86</xmin>
-      <ymin>286.26</ymin>
-      <xmax>147.26999999999998</xmax>
-      <ymax>396.71</ymax>
+      <xmin>52.86</xmin>
+      <ymin>285.26</ymin>
+      <xmax>148.26999999999998</xmax>
+      <ymax>397.71</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>laptop</name>
+    <bndbox>
+      <xmin>50.13</xmin>
+      <ymin>141.81</ymin>
+      <xmax>227.59</xmax>
+      <ymax>286.53</ymax>
     </bndbox>
   </object>
   <object>
     <name>cup</name>
     <bndbox>
-      <xmin>601.08</xmin>
-      <ymin>177.57</ymin>
-      <xmax>628.37</xmax>
-      <ymax>209.79999999999998</ymax>
+      <xmin>600.08</xmin>
+      <ymin>176.57</ymin>
+      <xmax>629.37</xmax>
+      <ymax>210.79999999999998</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>keyboard</name>
+    <bndbox>
+      <xmin>272.33</xmin>
+      <ymin>278.35</ymin>
+      <xmax>640.0</xmax>
+      <ymax>387.24</ymax>
     </bndbox>
   </object>
   <object>
     <name>cell phone</name>
     <bndbox>
-      <xmin>1.0</xmin>
-      <ymin>278.99</ymin>
-      <xmax>67.64</xmax>
-      <ymax>313.62</ymax>
+      <xmin>0.0</xmin>
+      <ymin>277.99</ymin>
+      <xmax>68.64</xmax>
+      <ymax>314.62</ymax>
     </bndbox>
   </object>
 </annotation>

@@ -13,12 +13,48 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>515.13</xmin>
+      <ymin>152.51</ymin>
+      <xmax>640.0</xmax>
+      <ymax>354.51</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pizza</name>
+    <bndbox>
+      <xmin>171.98</xmin>
+      <ymin>112.76</ymin>
+      <xmax>523.25</xmax>
+      <ymax>310.7</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>laptop</name>
+    <bndbox>
+      <xmin>484.56</xmin>
+      <ymin>10.23</ymin>
+      <xmax>625.89</xmax>
+      <ymax>124.10000000000001</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dining table</name>
+    <bndbox>
+      <xmin>299.48</xmin>
+      <ymin>21.53</ymin>
+      <xmax>640.0</xmax>
+      <ymax>103.28</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>cup</name>
     <bndbox>
-      <xmin>613.01</xmin>
-      <ymin>5.23</ymin>
-      <xmax>639.0</xmax>
-      <ymax>52.120000000000005</ymax>
+      <xmin>612.01</xmin>
+      <ymin>4.23</ymin>
+      <xmax>640.0</xmax>
+      <ymax>53.120000000000005</ymax>
     </bndbox>
   </object>
 </annotation>

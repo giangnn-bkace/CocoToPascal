@@ -15,10 +15,28 @@
   <object>
     <name>tv</name>
     <bndbox>
-      <xmin>190.82</xmin>
-      <ymin>112.18</ymin>
-      <xmax>260.88</xmax>
-      <ymax>177.59</ymax>
+      <xmin>189.82</xmin>
+      <ymin>111.18</ymin>
+      <xmax>261.88</xmax>
+      <ymax>178.59</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>couch</name>
+    <bndbox>
+      <xmin>201.58</xmin>
+      <ymin>198.92</ymin>
+      <xmax>497.88</xmax>
+      <ymax>375.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chair</name>
+    <bndbox>
+      <xmin>4.19</xmin>
+      <ymin>148.57</ymin>
+      <xmax>154.35999999999999</xmax>
+      <ymax>327.26</ymax>
     </bndbox>
   </object>
 </annotation>

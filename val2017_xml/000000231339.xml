@@ -13,12 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>refrigerator</name>
+    <bndbox>
+      <xmin>97.3</xmin>
+      <ymin>0.52</ymin>
+      <xmax>480.0</xmax>
+      <ymax>456.90999999999997</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>194.13</xmin>
+      <ymin>198.7</ymin>
+      <xmax>430.88</xmax>
+      <ymax>502.28</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>bowl</name>
     <bndbox>
-      <xmin>230.73</xmin>
-      <ymin>123.94</ymin>
-      <xmax>338.18</xmax>
-      <ymax>189.67000000000002</ymax>
+      <xmin>229.73</xmin>
+      <ymin>122.94</ymin>
+      <xmax>339.18</xmax>
+      <ymax>190.67000000000002</ymax>
     </bndbox>
   </object>
 </annotation>

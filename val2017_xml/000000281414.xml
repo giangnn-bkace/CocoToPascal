@@ -15,10 +15,28 @@
   <object>
     <name>cell phone</name>
     <bndbox>
-      <xmin>201.06</xmin>
-      <ymin>250.56</ymin>
-      <xmax>229.76</xmax>
-      <ymax>261.14</ymax>
+      <xmin>200.06</xmin>
+      <ymin>249.56</ymin>
+      <xmax>230.76</xmax>
+      <ymax>262.14</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>64.14</xmin>
+      <ymin>107.92</ymin>
+      <xmax>316.49</xmax>
+      <ymax>580.24</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>backpack</name>
+    <bndbox>
+      <xmin>285.11</xmin>
+      <ymin>300.36</ymin>
+      <xmax>443.0</xmax>
+      <ymax>403.34000000000003</ymax>
     </bndbox>
   </object>
 </annotation>

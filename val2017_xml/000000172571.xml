@@ -13,30 +13,75 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>199.56</xmin>
+      <ymin>1.62</ymin>
+      <xmax>640.0</xmax>
+      <ymax>80.31</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wine glass</name>
+    <bndbox>
+      <xmin>491.29</xmin>
+      <ymin>0.7</ymin>
+      <xmax>625.33</xmax>
+      <ymax>206.51999999999998</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>cup</name>
     <bndbox>
-      <xmin>178.25</xmin>
-      <ymin>2.2199999999999998</ymin>
-      <xmax>264.87</xmax>
-      <ymax>131.12</ymax>
+      <xmin>177.25</xmin>
+      <ymin>1.22</ymin>
+      <xmax>265.87</xmax>
+      <ymax>132.12</ymax>
     </bndbox>
   </object>
   <object>
     <name>fork</name>
     <bndbox>
-      <xmin>369.14</xmin>
-      <ymin>64.6</ymin>
-      <xmax>576.11</xmax>
-      <ymax>115.32</ymax>
+      <xmin>368.14</xmin>
+      <ymin>63.6</ymin>
+      <xmax>577.11</xmax>
+      <ymax>116.32</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pizza</name>
+    <bndbox>
+      <xmin>103.84</xmin>
+      <ymin>117.63</ymin>
+      <xmax>525.68</xmax>
+      <ymax>354.51</ymax>
     </bndbox>
   </object>
   <object>
     <name>knife</name>
     <bndbox>
-      <xmin>269.38</xmin>
-      <ymin>85.42</ymin>
-      <xmax>357.38</xmax>
-      <ymax>144.18</ymax>
+      <xmin>268.38</xmin>
+      <ymin>84.42</ymin>
+      <xmax>358.38</xmax>
+      <ymax>145.18</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pizza</name>
+    <bndbox>
+      <xmin>490.61</xmin>
+      <ymin>55.14</ymin>
+      <xmax>618.07</xmax>
+      <ymax>116.09</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>knife</name>
+    <bndbox>
+      <xmin>309.43</xmin>
+      <ymin>31.88</ymin>
+      <xmax>434.14</xmax>
+      <ymax>205.35</ymax>
     </bndbox>
   </object>
 </annotation>

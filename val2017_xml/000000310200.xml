@@ -13,12 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>donut</name>
+    <bndbox>
+      <xmin>116.76</xmin>
+      <ymin>83.78</ymin>
+      <xmax>563.24</xmax>
+      <ymax>425.40999999999997</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>spoon</name>
     <bndbox>
-      <xmin>401.21</xmin>
-      <ymin>139.83</ymin>
-      <xmax>639.0</xmax>
-      <ymax>174.53000000000003</ymax>
+      <xmin>400.21</xmin>
+      <ymin>138.83</ymin>
+      <xmax>640.0</xmax>
+      <ymax>175.53000000000003</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bowl</name>
+    <bndbox>
+      <xmin>187.01</xmin>
+      <ymin>1.25</ymin>
+      <xmax>442.6</xmax>
+      <ymax>76.05</ymax>
     </bndbox>
   </object>
 </annotation>

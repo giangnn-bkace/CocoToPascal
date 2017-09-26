@@ -13,21 +13,66 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>dining table</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>10.59</ymin>
+      <xmax>500.0</xmax>
+      <ymax>373.23999999999995</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>person</name>
     <bndbox>
-      <xmin>106.34</xmin>
-      <ymin>2.74</ymin>
-      <xmax>364.73</xmax>
-      <ymax>43.72</ymax>
+      <xmin>105.34</xmin>
+      <ymin>1.74</ymin>
+      <xmax>365.73</xmax>
+      <ymax>44.72</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cup</name>
+    <bndbox>
+      <xmin>356.46</xmin>
+      <ymin>11.8</ymin>
+      <xmax>490.45</xmax>
+      <ymax>200.56</ymax>
     </bndbox>
   </object>
   <object>
     <name>spoon</name>
     <bndbox>
-      <xmin>2.3899999999999997</xmin>
-      <ymin>139.11</ymin>
-      <xmax>79.84</xmax>
-      <ymax>189.64000000000001</ymax>
+      <xmin>1.39</xmin>
+      <ymin>138.11</ymin>
+      <xmax>80.84</xmax>
+      <ymax>190.64000000000001</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bowl</name>
+    <bndbox>
+      <xmin>5.91</xmin>
+      <ymin>143.16</ymin>
+      <xmax>231.42</xmax>
+      <ymax>312.08</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sandwich</name>
+    <bndbox>
+      <xmin>218.2</xmin>
+      <ymin>19.44</ymin>
+      <xmax>309.77</xmax>
+      <ymax>89.02</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sandwich</name>
+    <bndbox>
+      <xmin>233.56</xmin>
+      <ymin>188.66</ymin>
+      <xmax>404.78</xmax>
+      <ymax>327.31</ymax>
     </bndbox>
   </object>
 </annotation>

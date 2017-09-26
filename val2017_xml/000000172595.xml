@@ -13,84 +13,138 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>tv</name>
+    <bndbox>
+      <xmin>348.84</xmin>
+      <ymin>19.34</ymin>
+      <xmax>465.62</xmax>
+      <ymax>162.15</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>chair</name>
     <bndbox>
-      <xmin>1.0</xmin>
-      <ymin>1.6400000000000001</ymin>
-      <xmax>42.62</xmax>
-      <ymax>48.1</ymax>
+      <xmin>20.95</xmin>
+      <ymin>34.14</ymin>
+      <xmax>234.31</xmax>
+      <ymax>360.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chair</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>0.64</ymin>
+      <xmax>43.62</xmax>
+      <ymax>49.1</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>laptop</name>
+    <bndbox>
+      <xmin>228.4</xmin>
+      <ymin>31.95</ymin>
+      <xmax>336.47</xmax>
+      <ymax>143.62</ymax>
     </bndbox>
   </object>
   <object>
     <name>mouse</name>
     <bndbox>
-      <xmin>340.73</xmin>
-      <ymin>193.16</ymin>
-      <xmax>376.84000000000003</xmax>
-      <ymax>219.54</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>book</name>
-    <bndbox>
-      <xmin>549.69</xmin>
-      <ymin>118.56</ymin>
-      <xmax>604.4300000000001</xmax>
-      <ymax>146.16</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>bottle</name>
-    <bndbox>
-      <xmin>603.36</xmin>
-      <ymin>105.31</ymin>
-      <xmax>610.87</xmax>
-      <ymax>126.23</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>bottle</name>
-    <bndbox>
-      <xmin>209.55</xmin>
-      <ymin>11.64</ymin>
-      <xmax>217.23000000000002</xmax>
-      <ymax>21.86</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>tv</name>
-    <bndbox>
-      <xmin>480.73</xmin>
-      <ymin>3.29</ymin>
-      <xmax>557.2</xmax>
-      <ymax>72.48</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>tv</name>
-    <bndbox>
-      <xmin>574.14</xmin>
-      <ymin>6.66</ymin>
-      <xmax>638.93</xmax>
-      <ymax>119.45</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>cell phone</name>
-    <bndbox>
-      <xmin>209.94</xmin>
-      <ymin>115.66</ymin>
-      <xmax>225.19</xmax>
-      <ymax>121.96</ymax>
+      <xmin>339.73</xmin>
+      <ymin>192.16</ymin>
+      <xmax>377.84000000000003</xmax>
+      <ymax>220.54</ymax>
     </bndbox>
   </object>
   <object>
     <name>keyboard</name>
     <bndbox>
-      <xmin>55.51</xmin>
-      <ymin>23.08</ymin>
-      <xmax>80.15</xmax>
-      <ymax>24.22</ymax>
+      <xmin>253.56</xmin>
+      <ymin>142.15</ymin>
+      <xmax>363.68</xmax>
+      <ymax>207.15</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>book</name>
+    <bndbox>
+      <xmin>548.69</xmin>
+      <ymin>117.56</ymin>
+      <xmax>605.4300000000001</xmax>
+      <ymax>147.16</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>handbag</name>
+    <bndbox>
+      <xmin>218.99</xmin>
+      <ymin>186.12</ymin>
+      <xmax>324.59000000000003</xmax>
+      <ymax>287.3</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bottle</name>
+    <bndbox>
+      <xmin>602.36</xmin>
+      <ymin>104.31</ymin>
+      <xmax>611.87</xmax>
+      <ymax>127.23</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bottle</name>
+    <bndbox>
+      <xmin>208.55</xmin>
+      <ymin>10.64</ymin>
+      <xmax>218.23000000000002</xmax>
+      <ymax>22.86</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tv</name>
+    <bndbox>
+      <xmin>479.73</xmin>
+      <ymin>2.29</ymin>
+      <xmax>558.2</xmax>
+      <ymax>73.48</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tv</name>
+    <bndbox>
+      <xmin>573.14</xmin>
+      <ymin>5.66</ymin>
+      <xmax>639.93</xmax>
+      <ymax>120.45</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cell phone</name>
+    <bndbox>
+      <xmin>208.94</xmin>
+      <ymin>114.66</ymin>
+      <xmax>226.19</xmax>
+      <ymax>122.96</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>keyboard</name>
+    <bndbox>
+      <xmin>54.51</xmin>
+      <ymin>22.08</ymin>
+      <xmax>81.15</xmax>
+      <ymax>25.22</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>backpack</name>
+    <bndbox>
+      <xmin>218.74</xmin>
+      <ymin>193.73</ymin>
+      <xmax>321.31</xmax>
+      <ymax>285.71</ymax>
     </bndbox>
   </object>
 </annotation>

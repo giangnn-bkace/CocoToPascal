@@ -13,12 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>umbrella</name>
+    <bndbox>
+      <xmin>155.33</xmin>
+      <ymin>2.16</ymin>
+      <xmax>371.06</xmax>
+      <ymax>135.91</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>244.78</xmin>
+      <ymin>10.44</ymin>
+      <xmax>416.46000000000004</xmax>
+      <ymax>469.94</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>handbag</name>
     <bndbox>
-      <xmin>331.72</xmin>
-      <ymin>140.22</ymin>
-      <xmax>415.03000000000003</xmax>
-      <ymax>258.47</ymax>
+      <xmin>330.72</xmin>
+      <ymin>139.22</ymin>
+      <xmax>416.03000000000003</xmax>
+      <ymax>259.47</ymax>
     </bndbox>
   </object>
 </annotation>

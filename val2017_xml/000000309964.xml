@@ -13,12 +13,48 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>umbrella</name>
+    <bndbox>
+      <xmin>0.96</xmin>
+      <ymin>8.69</ymin>
+      <xmax>559.7800000000001</xmax>
+      <ymax>275.21</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>542.15</xmin>
+      <ymin>93.88</ymin>
+      <xmax>640.0</xmax>
+      <ymax>231.09</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>90.6</xmin>
+      <ymin>94.22</ymin>
+      <xmax>249.65</xmax>
+      <ymax>416.15999999999997</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>340.83</xmin>
+      <ymin>95.42</ymin>
+      <xmax>524.65</xmax>
+      <ymax>421.89000000000004</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>backpack</name>
     <bndbox>
-      <xmin>244.46</xmin>
-      <ymin>250.6</ymin>
-      <xmax>329.67</xmax>
-      <ymax>362.72</ymax>
+      <xmin>243.46</xmin>
+      <ymin>249.6</ymin>
+      <xmax>330.67</xmax>
+      <ymax>363.72</ymax>
     </bndbox>
   </object>
 </annotation>

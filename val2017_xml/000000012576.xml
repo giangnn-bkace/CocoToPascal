@@ -15,91 +15,136 @@
   <object>
     <name>tv</name>
     <bndbox>
-      <xmin>419.09</xmin>
-      <ymin>42.59</ymin>
-      <xmax>479.0</xmax>
-      <ymax>123.66</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>fork</name>
-    <bndbox>
-      <xmin>318.07</xmin>
-      <ymin>288.43</ymin>
-      <xmax>479.0</xmax>
-      <ymax>311.0</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>knife</name>
-    <bndbox>
-      <xmin>393.85</xmin>
-      <ymin>404.35</ymin>
-      <xmax>479.0</xmax>
-      <ymax>492.49</ymax>
+      <xmin>418.09</xmin>
+      <ymin>41.59</ymin>
+      <xmax>480.0</xmax>
+      <ymax>124.66</ymax>
     </bndbox>
   </object>
   <object>
     <name>cup</name>
     <bndbox>
-      <xmin>273.33</xmin>
-      <ymin>119.99</ymin>
-      <xmax>310.2</xmax>
-      <ymax>193.22</ymax>
+      <xmin>140.27</xmin>
+      <ymin>200.59</ymin>
+      <xmax>217.17000000000002</xmax>
+      <ymax>345.93</ymax>
     </bndbox>
   </object>
   <object>
     <name>cup</name>
     <bndbox>
-      <xmin>382.72</xmin>
-      <ymin>113.81</ymin>
-      <xmax>425.25</xmax>
-      <ymax>170.11</ymax>
+      <xmin>364.34</xmin>
+      <ymin>209.36</ymin>
+      <xmax>455.82</xmax>
+      <ymax>377.5</ymax>
     </bndbox>
   </object>
   <object>
     <name>fork</name>
     <bndbox>
-      <xmin>3.88</xmin>
-      <ymin>320.28</ymin>
-      <xmax>142.82</xmax>
-      <ymax>336.97999999999996</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>pizza</name>
-    <bndbox>
-      <xmin>307.11</xmin>
-      <ymin>191.76</ymin>
-      <xmax>479.0</xmax>
-      <ymax>233.28</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>pizza</name>
-    <bndbox>
-      <xmin>88.32</xmin>
-      <ymin>174.16</ymin>
-      <xmax>250.70999999999998</xmax>
-      <ymax>227.37</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>fork</name>
-    <bndbox>
-      <xmin>420.19</xmin>
-      <ymin>371.55</ymin>
-      <xmax>479.0</xmax>
-      <ymax>440.83000000000004</ymax>
+      <xmin>317.07</xmin>
+      <ymin>287.43</ymin>
+      <xmax>480.0</xmax>
+      <ymax>312.0</ymax>
     </bndbox>
   </object>
   <object>
     <name>knife</name>
     <bndbox>
-      <xmin>289.13</xmin>
-      <ymin>303.62</ymin>
-      <xmax>479.0</xmax>
-      <ymax>319.96</ymax>
+      <xmin>392.85</xmin>
+      <ymin>403.35</ymin>
+      <xmax>480.0</xmax>
+      <ymax>493.49</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pizza</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>375.79</ymin>
+      <xmax>449.93</xmax>
+      <ymax>640.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cup</name>
+    <bndbox>
+      <xmin>272.33</xmin>
+      <ymin>118.99</ymin>
+      <xmax>311.2</xmax>
+      <ymax>194.22</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cup</name>
+    <bndbox>
+      <xmin>381.72</xmin>
+      <ymin>112.81</ymin>
+      <xmax>426.25</xmax>
+      <ymax>171.11</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>fork</name>
+    <bndbox>
+      <xmin>2.88</xmin>
+      <ymin>319.28</ymin>
+      <xmax>143.82</xmax>
+      <ymax>337.97999999999996</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pizza</name>
+    <bndbox>
+      <xmin>306.11</xmin>
+      <ymin>190.76</ymin>
+      <xmax>480.0</xmax>
+      <ymax>234.28</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pizza</name>
+    <bndbox>
+      <xmin>87.32</xmin>
+      <ymin>173.16</ymin>
+      <xmax>251.70999999999998</xmax>
+      <ymax>228.37</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dining table</name>
+    <bndbox>
+      <xmin>1.44</xmin>
+      <ymin>100.77</ymin>
+      <xmax>480.0</xmax>
+      <ymax>628.59</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>193.97</xmin>
+      <ymin>15.23</ymin>
+      <xmax>285.28</xmax>
+      <ymax>151.54</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>fork</name>
+    <bndbox>
+      <xmin>419.19</xmin>
+      <ymin>370.55</ymin>
+      <xmax>480.0</xmax>
+      <ymax>441.83000000000004</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>knife</name>
+    <bndbox>
+      <xmin>288.13</xmin>
+      <ymin>302.62</ymin>
+      <xmax>480.0</xmax>
+      <ymax>320.96</ymax>
     </bndbox>
   </object>
 </annotation>

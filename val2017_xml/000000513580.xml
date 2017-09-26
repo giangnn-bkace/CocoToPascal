@@ -13,12 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>motorcycle</name>
+    <bndbox>
+      <xmin>108.0</xmin>
+      <ymin>308.59</ymin>
+      <xmax>247.75</xmax>
+      <ymax>397.29999999999995</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>airplane</name>
+    <bndbox>
+      <xmin>128.92</xmin>
+      <ymin>114.44</ymin>
+      <xmax>506.93999999999994</xmax>
+      <ymax>322.03</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>person</name>
     <bndbox>
-      <xmin>146.76</xmin>
-      <ymin>285.6</ymin>
-      <xmax>210.5</xmax>
-      <ymax>372.99</ymax>
+      <xmin>145.76</xmin>
+      <ymin>284.6</ymin>
+      <xmax>211.5</xmax>
+      <ymax>373.99</ymax>
     </bndbox>
   </object>
 </annotation>

@@ -13,12 +13,48 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>animal</name>
+    <bndbox>
+      <xmin>202.5</xmin>
+      <ymin>163.65</ymin>
+      <xmax>350.95</xmax>
+      <ymax>422.97</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chair</name>
+    <bndbox>
+      <xmin>1.44</xmin>
+      <ymin>252.51</ymin>
+      <xmax>120.03999999999999</xmax>
+      <ymax>426.35</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>person</name>
     <bndbox>
-      <xmin>1.0</xmin>
-      <ymin>109.69</ymin>
-      <xmax>69.98</xmax>
-      <ymax>403.82</ymax>
+      <xmin>189.46</xmin>
+      <ymin>37.99</ymin>
+      <xmax>325.06</xmax>
+      <ymax>300.53000000000003</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>331.04</xmin>
+      <ymin>0.0</ymin>
+      <xmax>551.74</xmax>
+      <ymax>422.04</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>108.69</ymin>
+      <xmax>70.98</xmax>
+      <ymax>404.82</ymax>
     </bndbox>
   </object>
 </annotation>

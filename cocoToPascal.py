@@ -43,14 +43,14 @@ def create_annotations(dataDir, dataType, dst):
 	
 	cats = coco.loadCats(coco.getCatIds())
 	cat_dict = {}
-	#animal_ids = range(16, 26)
+	animal_ids = range(16, 26)
 	for cat in cats:
-		cat_dict[cat['id']] = cat['supercategory']
-		#if cat['id'] in animal_ids:
-		#	cat_dict[cat['id']] = 'animal'
-		#else:
-		#	cat_dict[cat['id']] = cat['name']
-	with open("supercat.txt", 'w') as f:
+		#cat_dict[cat['id']] = cat['supercategory']
+		if cat['id'] in animal_ids:
+			cat_dict[cat['id']] = 'animal'
+		else:
+			cat_dict[cat['id']] = cat['name']
+	with open("cat.txt", 'w') as f:
 		json.dump(cat_dict, f)
 	f.close()
 	imgIds = coco.getImgIds()

@@ -13,12 +13,39 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>21.52</xmin>
+      <ymin>114.73</ymin>
+      <xmax>223.86</xmax>
+      <ymax>625.58</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>wine glass</name>
     <bndbox>
-      <xmin>260.33</xmin>
-      <ymin>298.48</ymin>
-      <xmax>313.84</xmax>
-      <ymax>377.07000000000005</ymax>
+      <xmin>259.33</xmin>
+      <ymin>297.48</ymin>
+      <xmax>314.84</xmax>
+      <ymax>378.07000000000005</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tie</name>
+    <bndbox>
+      <xmin>255.39</xmin>
+      <ymin>172.64</ymin>
+      <xmax>321.75</xmax>
+      <ymax>287.83</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>187.98</xmin>
+      <ymin>38.89</ymin>
+      <xmax>426.0</xmax>
+      <ymax>640.0</ymax>
     </bndbox>
   </object>
 </annotation>

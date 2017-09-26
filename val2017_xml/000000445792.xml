@@ -13,39 +13,66 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>couch</name>
+    <bndbox>
+      <xmin>23.39</xmin>
+      <ymin>83.87</ymin>
+      <xmax>449.19</xmax>
+      <ymax>370.97</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>32.02</xmin>
+      <ymin>47.4</ymin>
+      <xmax>500.0</xmax>
+      <ymax>375.0</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>remote</name>
     <bndbox>
-      <xmin>243.59</xmin>
-      <ymin>59.65</ymin>
-      <xmax>284.87</xmax>
-      <ymax>98.0</ymax>
+      <xmin>242.59</xmin>
+      <ymin>58.65</ymin>
+      <xmax>285.87</xmax>
+      <ymax>99.0</ymax>
     </bndbox>
   </object>
   <object>
     <name>potted plant</name>
     <bndbox>
-      <xmin>1.0</xmin>
-      <ymin>187.24</ymin>
-      <xmax>47.19</xmax>
-      <ymax>374.0</ymax>
+      <xmin>0.0</xmin>
+      <ymin>186.24</ymin>
+      <xmax>48.19</xmax>
+      <ymax>375.0</ymax>
     </bndbox>
   </object>
   <object>
     <name>cell phone</name>
     <bndbox>
-      <xmin>445.34</xmin>
-      <ymin>151.89</ymin>
-      <xmax>493.35999999999996</xmax>
-      <ymax>187.89999999999998</ymax>
+      <xmin>444.34</xmin>
+      <ymin>150.89</ymin>
+      <xmax>494.35999999999996</xmax>
+      <ymax>188.89999999999998</ymax>
     </bndbox>
   </object>
   <object>
     <name>remote</name>
     <bndbox>
-      <xmin>357.74</xmin>
-      <ymin>21.3</ymin>
-      <xmax>387.48</xmax>
-      <ymax>83.50999999999999</ymax>
+      <xmin>356.74</xmin>
+      <ymin>20.3</ymin>
+      <xmax>388.48</xmax>
+      <ymax>84.50999999999999</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>couch</name>
+    <bndbox>
+      <xmin>387.66</xmin>
+      <ymin>27.06</ymin>
+      <xmax>499.68</xmax>
+      <ymax>231.82</ymax>
     </bndbox>
   </object>
 </annotation>

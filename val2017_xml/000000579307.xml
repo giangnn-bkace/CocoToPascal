@@ -13,21 +13,48 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>176.3</xmin>
+      <ymin>168.13</ymin>
+      <xmax>274.31</xmax>
+      <ymax>385.15999999999997</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>256.0</xmin>
+      <ymin>222.92</ymin>
+      <xmax>379.69</xmax>
+      <ymax>640.0</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>kite</name>
     <bndbox>
-      <xmin>207.77</xmin>
-      <ymin>260.66</ymin>
-      <xmax>251.94</xmax>
-      <ymax>316.65000000000003</ymax>
+      <xmin>153.84</xmin>
+      <ymin>294.19</ymin>
+      <xmax>332.08000000000004</xmax>
+      <ymax>477.2</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>kite</name>
+    <bndbox>
+      <xmin>206.77</xmin>
+      <ymin>259.66</ymin>
+      <xmax>252.94</xmax>
+      <ymax>317.65000000000003</ymax>
     </bndbox>
   </object>
   <object>
     <name>backpack</name>
     <bndbox>
-      <xmin>196.77</xmin>
-      <ymin>209.93</ymin>
-      <xmax>261.29</xmax>
-      <ymax>254.44</ymax>
+      <xmin>195.77</xmin>
+      <ymin>208.93</ymin>
+      <xmax>262.29</xmax>
+      <ymax>255.44</ymax>
     </bndbox>
   </object>
 </annotation>

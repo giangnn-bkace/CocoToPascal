@@ -13,12 +13,48 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>couch</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>250.41</ymin>
+      <xmax>186.21</xmax>
+      <ymax>631.03</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>58.97</xmin>
+      <ymin>40.27</ymin>
+      <xmax>500.49</xmax>
+      <ymax>631.37</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>373.93</xmin>
+      <ymin>1.0</ymin>
+      <xmax>526.38</xmax>
+      <ymax>629.49</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>remote</name>
     <bndbox>
-      <xmin>65.65</xmin>
-      <ymin>495.57</ymin>
-      <xmax>112.49000000000001</xmax>
-      <ymax>590.02</ymax>
+      <xmin>64.65</xmin>
+      <ymin>494.57</ymin>
+      <xmax>113.49000000000001</xmax>
+      <ymax>591.02</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>120.81</xmin>
+      <ymin>4.31</ymin>
+      <xmax>389.75</xmax>
+      <ymax>169.71</ymax>
     </bndbox>
   </object>
 </annotation>

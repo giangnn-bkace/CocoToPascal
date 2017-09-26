@@ -13,30 +13,48 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>train</name>
+    <bndbox>
+      <xmin>128.0</xmin>
+      <ymin>1.55</ymin>
+      <xmax>639.99</xmax>
+      <ymax>516.03</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>person</name>
     <bndbox>
-      <xmin>41.45</xmin>
-      <ymin>298.83</ymin>
-      <xmax>96.91</xmax>
-      <ymax>476.90999999999997</ymax>
+      <xmin>40.45</xmin>
+      <ymin>297.83</ymin>
+      <xmax>97.91</xmax>
+      <ymax>477.90999999999997</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>train</name>
+    <bndbox>
+      <xmin>1.24</xmin>
+      <ymin>112.83</ymin>
+      <xmax>209.54000000000002</xmax>
+      <ymax>414.13</ymax>
     </bndbox>
   </object>
   <object>
     <name>handbag</name>
     <bndbox>
-      <xmin>32.03</xmin>
-      <ymin>315.09</ymin>
-      <xmax>75.33</xmax>
-      <ymax>359.37</ymax>
+      <xmin>31.03</xmin>
+      <ymin>314.09</ymin>
+      <xmax>76.33</xmax>
+      <ymax>360.37</ymax>
     </bndbox>
   </object>
   <object>
     <name>backpack</name>
     <bndbox>
-      <xmin>80.04</xmin>
-      <ymin>312.89</ymin>
-      <xmax>101.14000000000001</xmax>
-      <ymax>340.16999999999996</ymax>
+      <xmin>79.04</xmin>
+      <ymin>311.89</ymin>
+      <xmax>102.14000000000001</xmax>
+      <ymax>341.16999999999996</ymax>
     </bndbox>
   </object>
 </annotation>

@@ -13,12 +13,39 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>381.58</xmin>
+      <ymin>281.03</ymin>
+      <xmax>455.21</xmax>
+      <ymax>465.11</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bus</name>
+    <bndbox>
+      <xmin>151.27</xmin>
+      <ymin>54.86</ymin>
+      <xmax>477.09000000000003</xmax>
+      <ymax>447.17</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bus</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>220.24</ymin>
+      <xmax>157.28</xmax>
+      <ymax>406.75</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>book</name>
     <bndbox>
-      <xmin>388.22</xmin>
-      <ymin>349.46</ymin>
-      <xmax>410.67</xmax>
-      <ymax>359.12</ymax>
+      <xmin>387.22</xmin>
+      <ymin>348.46</ymin>
+      <xmax>411.67</xmax>
+      <ymax>360.12</ymax>
     </bndbox>
   </object>
 </annotation>

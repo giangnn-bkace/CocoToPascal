@@ -13,21 +13,48 @@
   </size>
   <segmented>0</segmented>
   <object>
-    <name>person</name>
+    <name>bicycle</name>
     <bndbox>
-      <xmin>1.0</xmin>
-      <ymin>350.39</ymin>
-      <xmax>34.5</xmax>
-      <ymax>454.81</ymax>
+      <xmin>267.73</xmin>
+      <ymin>444.52</ymin>
+      <xmax>361.64</xmax>
+      <ymax>568.5</ymax>
     </bndbox>
   </object>
   <object>
     <name>bicycle</name>
     <bndbox>
-      <xmin>221.29</xmin>
-      <ymin>477.96</ymin>
-      <xmax>287.35</xmax>
-      <ymax>559.14</ymax>
+      <xmin>338.58</xmin>
+      <ymin>426.67</ymin>
+      <xmax>425.0</xmax>
+      <ymax>579.44</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>motorcycle</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>383.5</ymin>
+      <xmax>120.59</xmax>
+      <ymax>533.37</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>349.39</ymin>
+      <xmax>35.5</xmax>
+      <ymax>455.81</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bicycle</name>
+    <bndbox>
+      <xmin>220.29</xmin>
+      <ymin>476.96</ymin>
+      <xmax>288.35</xmax>
+      <ymax>560.14</ymax>
     </bndbox>
   </object>
 </annotation>

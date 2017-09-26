@@ -13,12 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>animal</name>
+    <bndbox>
+      <xmin>161.3</xmin>
+      <ymin>103.48</ymin>
+      <xmax>415.87</xmax>
+      <ymax>438.70000000000005</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>couch</name>
+    <bndbox>
+      <xmin>1.03</xmin>
+      <ymin>68.13</ymin>
+      <xmax>640.0</xmax>
+      <ymax>480.0</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>sports ball</name>
     <bndbox>
-      <xmin>210.76</xmin>
-      <ymin>80.82</ymin>
-      <xmax>257.26</xmax>
-      <ymax>124.13999999999999</ymax>
+      <xmin>209.76</xmin>
+      <ymin>79.82</ymin>
+      <xmax>258.26</xmax>
+      <ymax>125.13999999999999</ymax>
     </bndbox>
   </object>
 </annotation>

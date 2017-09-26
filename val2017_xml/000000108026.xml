@@ -13,12 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>111.32</xmin>
+      <ymin>0.0</ymin>
+      <xmax>640.0</xmax>
+      <ymax>423.2</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>mouse</name>
     <bndbox>
-      <xmin>86.91</xmin>
-      <ymin>124.18</ymin>
-      <xmax>240.17</xmax>
-      <ymax>166.49</ymax>
+      <xmin>85.91</xmin>
+      <ymin>123.18</ymin>
+      <xmax>241.17</xmax>
+      <ymax>167.49</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>keyboard</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>167.31</ymin>
+      <xmax>252.42</xmax>
+      <ymax>428.0</ymax>
     </bndbox>
   </object>
 </annotation>

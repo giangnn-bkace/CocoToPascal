@@ -13,12 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>animal</name>
+    <bndbox>
+      <xmin>272.1</xmin>
+      <ymin>200.23</ymin>
+      <xmax>424.07000000000005</xmax>
+      <ymax>480.0</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>bottle</name>
     <bndbox>
-      <xmin>182.23</xmin>
-      <ymin>87.28</ymin>
-      <xmax>207.67</xmax>
-      <ymax>158.81</ymax>
+      <xmin>181.23</xmin>
+      <ymin>86.28</ymin>
+      <xmax>208.67</xmax>
+      <ymax>159.81</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>toilet</name>
+    <bndbox>
+      <xmin>174.74</xmin>
+      <ymin>0.0</ymin>
+      <xmax>435.78000000000003</xmax>
+      <ymax>220.79</ymax>
     </bndbox>
   </object>
 </annotation>

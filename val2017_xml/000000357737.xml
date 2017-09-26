@@ -13,57 +13,102 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>bicycle</name>
+    <bndbox>
+      <xmin>45.42</xmin>
+      <ymin>136.26</ymin>
+      <xmax>407.74</xmax>
+      <ymax>465.55</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>car</name>
     <bndbox>
-      <xmin>135.94</xmin>
-      <ymin>99.47</ymin>
-      <xmax>260.63</xmax>
-      <ymax>126.31</ymax>
+      <xmin>63.14</xmin>
+      <ymin>112.73</ymin>
+      <xmax>398.97999999999996</xmax>
+      <ymax>257.54</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>134.94</xmin>
+      <ymin>98.47</ymin>
+      <xmax>261.63</xmax>
+      <ymax>127.31</ymax>
     </bndbox>
   </object>
   <object>
     <name>person</name>
     <bndbox>
-      <xmin>124.42</xmin>
-      <ymin>98.57</ymin>
-      <xmax>140.61</xmax>
-      <ymax>126.82</ymax>
+      <xmin>405.41</xmin>
+      <ymin>21.08</ymin>
+      <xmax>587.03</xmax>
+      <ymax>455.68</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>motorcycle</name>
+    <bndbox>
+      <xmin>228.13</xmin>
+      <ymin>109.07</ymin>
+      <xmax>442.23</xmax>
+      <ymax>463.08</ymax>
     </bndbox>
   </object>
   <object>
     <name>person</name>
     <bndbox>
-      <xmin>154.58</xmin>
-      <ymin>90.56</ymin>
-      <xmax>173.25</xmax>
-      <ymax>108.21000000000001</ymax>
+      <xmin>123.42</xmin>
+      <ymin>97.57</ymin>
+      <xmax>141.61</xmax>
+      <ymax>127.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>153.58</xmin>
+      <ymin>89.56</ymin>
+      <xmax>174.25</xmax>
+      <ymax>109.21000000000001</ymax>
     </bndbox>
   </object>
   <object>
     <name>bicycle</name>
     <bndbox>
-      <xmin>20.33</xmin>
-      <ymin>142.85</ymin>
-      <xmax>69.87</xmax>
-      <ymax>173.06</ymax>
+      <xmin>19.33</xmin>
+      <ymin>141.85</ymin>
+      <xmax>70.87</xmax>
+      <ymax>174.06</ymax>
     </bndbox>
   </object>
   <object>
     <name>car</name>
     <bndbox>
-      <xmin>577.36</xmin>
-      <ymin>89.04</ymin>
-      <xmax>582.4300000000001</xmax>
-      <ymax>90.39</ymax>
+      <xmin>576.36</xmin>
+      <ymin>88.04</ymin>
+      <xmax>583.4300000000001</xmax>
+      <ymax>91.39</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>truck</name>
+    <bndbox>
+      <xmin>27.79</xmin>
+      <ymin>88.54</ymin>
+      <xmax>193.04</xmax>
+      <ymax>165.54000000000002</ymax>
     </bndbox>
   </object>
   <object>
     <name>person</name>
     <bndbox>
-      <xmin>168.74</xmin>
-      <ymin>96.12</ymin>
-      <xmax>172.20000000000002</xmax>
-      <ymax>102.24000000000001</ymax>
+      <xmin>167.74</xmin>
+      <ymin>95.12</ymin>
+      <xmax>173.20000000000002</xmax>
+      <ymax>103.24000000000001</ymax>
     </bndbox>
   </object>
 </annotation>

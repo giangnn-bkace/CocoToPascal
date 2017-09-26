@@ -13,12 +13,39 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>55.91</xmin>
+      <ymin>12.15</ymin>
+      <xmax>524.16</xmax>
+      <ymax>613.1899999999999</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <bndbox>
+      <xmin>509.51</xmin>
+      <ymin>85.58</ymin>
+      <xmax>638.24</xmax>
+      <ymax>199.43</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>remote</name>
     <bndbox>
-      <xmin>374.15</xmin>
-      <ymin>351.32</ymin>
-      <xmax>458.78999999999996</xmax>
-      <ymax>548.48</ymax>
+      <xmin>373.15</xmin>
+      <ymin>350.32</ymin>
+      <xmax>459.78999999999996</xmax>
+      <ymax>549.48</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>remote</name>
+    <bndbox>
+      <xmin>444.11</xmin>
+      <ymin>343.46</ymin>
+      <xmax>543.36</xmax>
+      <ymax>503.5</ymax>
     </bndbox>
   </object>
 </annotation>

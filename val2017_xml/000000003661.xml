@@ -13,21 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>banana</name>
+    <bndbox>
+      <xmin>61.27</xmin>
+      <ymin>0.0</ymin>
+      <xmax>553.13</xmax>
+      <ymax>348.62</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>keyboard</name>
     <bndbox>
-      <xmin>1.0</xmin>
-      <ymin>164.09</ymin>
-      <xmax>114.63</xmax>
-      <ymax>206.1</ymax>
+      <xmin>0.0</xmin>
+      <ymin>163.09</ymin>
+      <xmax>115.63</xmax>
+      <ymax>207.1</ymax>
     </bndbox>
   </object>
   <object>
     <name>cup</name>
     <bndbox>
-      <xmin>568.52</xmin>
-      <ymin>20.95</ymin>
-      <xmax>639.0</xmax>
-      <ymax>239.36999999999998</ymax>
+      <xmin>567.52</xmin>
+      <ymin>19.95</ymin>
+      <xmax>640.0</xmax>
+      <ymax>240.36999999999998</ymax>
     </bndbox>
   </object>
 </annotation>

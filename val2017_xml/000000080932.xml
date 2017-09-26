@@ -13,48 +13,93 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>chair</name>
+    <bndbox>
+      <xmin>48.38</xmin>
+      <ymin>284.41</ymin>
+      <xmax>367.69</xmax>
+      <ymax>383.93</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dining table</name>
+    <bndbox>
+      <xmin>1.51</xmin>
+      <ymin>322.26</ymin>
+      <xmax>480.0</xmax>
+      <ymax>630.19</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>64.83</xmin>
+      <ymin>141.38</ymin>
+      <xmax>365.52</xmax>
+      <ymax>462.76</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>247.93</xmin>
+      <ymin>35.32</ymin>
+      <xmax>425.23</xmax>
+      <ymax>385.59</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>cup</name>
     <bndbox>
-      <xmin>1.0</xmin>
-      <ymin>326.05</ymin>
-      <xmax>49.45</xmax>
-      <ymax>478.28</ymax>
+      <xmin>0.0</xmin>
+      <ymin>325.05</ymin>
+      <xmax>50.45</xmax>
+      <ymax>479.28</ymax>
     </bndbox>
   </object>
   <object>
     <name>fork</name>
     <bndbox>
-      <xmin>62.38</xmin>
-      <ymin>446.07</ymin>
-      <xmax>240.04</xmax>
-      <ymax>531.22</ymax>
+      <xmin>61.38</xmin>
+      <ymin>445.07</ymin>
+      <xmax>241.04</xmax>
+      <ymax>532.22</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pizza</name>
+    <bndbox>
+      <xmin>162.28</xmin>
+      <ymin>361.11</ymin>
+      <xmax>305.45</xmax>
+      <ymax>497.88</ymax>
     </bndbox>
   </object>
   <object>
     <name>cup</name>
     <bndbox>
-      <xmin>411.7</xmin>
-      <ymin>133.43</ymin>
-      <xmax>439.58</xmax>
-      <ymax>174.81</ymax>
+      <xmin>410.7</xmin>
+      <ymin>132.43</ymin>
+      <xmax>440.58</xmax>
+      <ymax>175.81</ymax>
     </bndbox>
   </object>
   <object>
     <name>cup</name>
     <bndbox>
-      <xmin>450.32</xmin>
-      <ymin>132.15</ymin>
-      <xmax>472.39</xmax>
-      <ymax>171.02</ymax>
+      <xmin>449.32</xmin>
+      <ymin>131.15</ymin>
+      <xmax>473.39</xmax>
+      <ymax>172.02</ymax>
     </bndbox>
   </object>
   <object>
     <name>fork</name>
     <bndbox>
-      <xmin>30.82</xmin>
-      <ymin>171.12</ymin>
-      <xmax>74.41</xmax>
-      <ymax>174.44</ymax>
+      <xmin>29.82</xmin>
+      <ymin>170.12</ymin>
+      <xmax>75.41</xmax>
+      <ymax>175.44</ymax>
     </bndbox>
   </object>
 </annotation>

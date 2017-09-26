@@ -15,10 +15,46 @@
   <object>
     <name>bottle</name>
     <bndbox>
-      <xmin>1.0</xmin>
-      <ymin>159.39</ymin>
-      <xmax>36.0</xmax>
-      <ymax>408.17999999999995</ymax>
+      <xmin>0.0</xmin>
+      <ymin>158.39</ymin>
+      <xmax>37.0</xmax>
+      <ymax>409.17999999999995</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>453.03</xmin>
+      <ymin>138.82</ymin>
+      <xmax>639.64</xmax>
+      <ymax>473.2</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>knife</name>
+    <bndbox>
+      <xmin>330.07</xmin>
+      <ymin>144.54</ymin>
+      <xmax>501.57</xmax>
+      <ymax>222.2</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cake</name>
+    <bndbox>
+      <xmin>105.71</xmin>
+      <ymin>136.66</ymin>
+      <xmax>536.09</xmax>
+      <ymax>376.12</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dining table</name>
+    <bndbox>
+      <xmin>1.25</xmin>
+      <ymin>206.25</ymin>
+      <xmax>632.5</xmax>
+      <ymax>472.5</ymax>
     </bndbox>
   </object>
 </annotation>

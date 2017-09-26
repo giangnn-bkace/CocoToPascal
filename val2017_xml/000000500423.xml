@@ -13,12 +13,21 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>train</name>
+    <bndbox>
+      <xmin>0.96</xmin>
+      <ymin>9.6</ymin>
+      <xmax>640.0</xmax>
+      <ymax>332.0</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>person</name>
     <bndbox>
-      <xmin>486.88</xmin>
-      <ymin>208.14</ymin>
-      <xmax>498.23</xmax>
-      <ymax>230.08999999999997</ymax>
+      <xmin>485.88</xmin>
+      <ymin>207.14</ymin>
+      <xmax>499.23</xmax>
+      <ymax>231.08999999999997</ymax>
     </bndbox>
   </object>
 </annotation>

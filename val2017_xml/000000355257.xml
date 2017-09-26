@@ -15,10 +15,28 @@
   <object>
     <name>bottle</name>
     <bndbox>
-      <xmin>251.44</xmin>
-      <ymin>12.04</ymin>
-      <xmax>276.22</xmax>
-      <ymax>91.97999999999999</ymax>
+      <xmin>250.44</xmin>
+      <ymin>11.04</ymin>
+      <xmax>277.22</xmax>
+      <ymax>92.97999999999999</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bed</name>
+    <bndbox>
+      <xmin>276.35</xmin>
+      <ymin>213.82</ymin>
+      <xmax>640.0</xmax>
+      <ymax>399.01</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>326.08</xmin>
+      <ymin>230.09</ymin>
+      <xmax>636.0</xmax>
+      <ymax>330.29</ymax>
     </bndbox>
   </object>
 </annotation>

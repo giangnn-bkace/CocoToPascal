@@ -13,12 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>motorcycle</name>
+    <bndbox>
+      <xmin>175.51</xmin>
+      <ymin>257.71</ymin>
+      <xmax>324.96</xmax>
+      <ymax>466.93999999999994</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>171.51</xmin>
+      <ymin>210.34</ymin>
+      <xmax>310.65</xmax>
+      <ymax>442.25</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>backpack</name>
     <bndbox>
-      <xmin>248.2</xmin>
-      <ymin>259.49</ymin>
-      <xmax>313.5</xmax>
-      <ymax>319.13</ymax>
+      <xmin>247.2</xmin>
+      <ymin>258.49</ymin>
+      <xmax>314.5</xmax>
+      <ymax>320.13</ymax>
     </bndbox>
   </object>
 </annotation>

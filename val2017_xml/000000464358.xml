@@ -13,12 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>bed</name>
+    <bndbox>
+      <xmin>52.78</xmin>
+      <ymin>195.03</ymin>
+      <xmax>422.20000000000005</xmax>
+      <ymax>423.4</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chair</name>
+    <bndbox>
+      <xmin>281.67</xmin>
+      <ymin>164.9</ymin>
+      <xmax>385.18</xmax>
+      <ymax>279.55</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>tv</name>
     <bndbox>
-      <xmin>472.71</xmin>
-      <ymin>82.82</ymin>
-      <xmax>532.5699999999999</xmax>
-      <ymax>154.26</ymax>
+      <xmin>471.71</xmin>
+      <ymin>81.82</ymin>
+      <xmax>533.5699999999999</xmax>
+      <ymax>155.26</ymax>
     </bndbox>
   </object>
 </annotation>

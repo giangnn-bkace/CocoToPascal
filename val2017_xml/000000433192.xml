@@ -13,12 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>bed</name>
+    <bndbox>
+      <xmin>83.43</xmin>
+      <ymin>85.17</ymin>
+      <xmax>499.72</xmax>
+      <ymax>369.16</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>laptop</name>
+    <bndbox>
+      <xmin>141.86</xmin>
+      <ymin>142.59</ymin>
+      <xmax>264.13</xmax>
+      <ymax>229.05</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>book</name>
     <bndbox>
-      <xmin>257.98</xmin>
-      <ymin>164.61</ymin>
-      <xmax>298.38</xmax>
-      <ymax>178.71</ymax>
+      <xmin>256.98</xmin>
+      <ymin>163.61</ymin>
+      <xmax>299.38</xmax>
+      <ymax>179.71</ymax>
     </bndbox>
   </object>
 </annotation>

@@ -15,10 +15,28 @@
   <object>
     <name>bottle</name>
     <bndbox>
-      <xmin>279.72</xmin>
-      <ymin>154.44</ymin>
-      <xmax>313.67</xmax>
-      <ymax>250.84</ymax>
+      <xmin>278.72</xmin>
+      <ymin>153.44</ymin>
+      <xmax>314.67</xmax>
+      <ymax>251.84</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>261.12</xmin>
+      <ymin>1.28</ymin>
+      <xmax>633.6</xmax>
+      <ymax>417.28</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>animal</name>
+    <bndbox>
+      <xmin>192.6</xmin>
+      <ymin>144.54</ymin>
+      <xmax>327.4</xmax>
+      <ymax>371.36</ymax>
     </bndbox>
   </object>
 </annotation>

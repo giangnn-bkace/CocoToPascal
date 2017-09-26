@@ -13,12 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>microwave</name>
+    <bndbox>
+      <xmin>84.13</xmin>
+      <ymin>153.17</ymin>
+      <xmax>198.47</xmax>
+      <ymax>230.82999999999998</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>oven</name>
+    <bndbox>
+      <xmin>76.58</xmin>
+      <ymin>242.7</ymin>
+      <xmax>239.45999999999998</xmax>
+      <ymax>448.72</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>sink</name>
     <bndbox>
-      <xmin>346.44</xmin>
-      <ymin>267.37</ymin>
-      <xmax>430.73</xmax>
-      <ymax>286.95</ymax>
+      <xmin>345.44</xmin>
+      <ymin>266.37</ymin>
+      <xmax>431.73</xmax>
+      <ymax>287.95</ymax>
     </bndbox>
   </object>
 </annotation>

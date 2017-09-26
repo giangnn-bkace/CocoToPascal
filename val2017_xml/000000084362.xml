@@ -13,21 +13,75 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>tv</name>
+    <bndbox>
+      <xmin>531.46</xmin>
+      <ymin>0.99</ymin>
+      <xmax>639.34</xmax>
+      <ymax>152.41</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>animal</name>
+    <bndbox>
+      <xmin>260.54</xmin>
+      <ymin>250.31</ymin>
+      <xmax>555.08</xmax>
+      <ymax>447.72</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>truck</name>
     <bndbox>
-      <xmin>237.31</xmin>
-      <ymin>96.82</ymin>
-      <xmax>396.03999999999996</xmax>
-      <ymax>122.25999999999999</ymax>
+      <xmin>236.31</xmin>
+      <ymin>95.82</ymin>
+      <xmax>397.03999999999996</xmax>
+      <ymax>123.25999999999999</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>374.29</xmin>
+      <ymin>142.38</ymin>
+      <xmax>474.61</xmax>
+      <ymax>263.19</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chair</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>259.19</ymin>
+      <xmax>640.0</xmax>
+      <ymax>480.0</ymax>
     </bndbox>
   </object>
   <object>
     <name>remote</name>
     <bndbox>
-      <xmin>517.84</xmin>
-      <ymin>305.41</ymin>
-      <xmax>559.21</xmax>
-      <ymax>315.82000000000005</ymax>
+      <xmin>516.84</xmin>
+      <ymin>304.41</ymin>
+      <xmax>560.21</xmax>
+      <ymax>316.82000000000005</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>couch</name>
+    <bndbox>
+      <xmin>0.68</xmin>
+      <ymin>109.72</ymin>
+      <xmax>200.61</xmax>
+      <ymax>388.67999999999995</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>couch</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>274.29</ymin>
+      <xmax>640.0</xmax>
+      <ymax>473.77</ymax>
     </bndbox>
   </object>
 </annotation>

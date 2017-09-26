@@ -13,12 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>87.01</xmin>
+      <ymin>44.21</ymin>
+      <xmax>346.5</xmax>
+      <ymax>318.26</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>skateboard</name>
+    <bndbox>
+      <xmin>188.03</xmin>
+      <ymin>219.42</ymin>
+      <xmax>359.63</xmax>
+      <ymax>328.33</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>traffic light</name>
     <bndbox>
-      <xmin>1.0</xmin>
-      <ymin>183.67</ymin>
-      <xmax>7.25</xmax>
-      <ymax>208.61999999999998</ymax>
+      <xmin>0.0</xmin>
+      <ymin>182.67</ymin>
+      <xmax>8.25</xmax>
+      <ymax>209.61999999999998</ymax>
     </bndbox>
   </object>
 </annotation>

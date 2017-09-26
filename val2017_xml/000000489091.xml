@@ -13,12 +13,21 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>toilet</name>
+    <bndbox>
+      <xmin>0.42</xmin>
+      <ymin>303.56</ymin>
+      <xmax>67.81</xmax>
+      <ymax>400.97</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>sink</name>
     <bndbox>
-      <xmin>144.92</xmin>
-      <ymin>297.86</ymin>
-      <xmax>249.77999999999997</xmax>
-      <ymax>349.29</ymax>
+      <xmin>143.92</xmin>
+      <ymin>296.86</ymin>
+      <xmax>250.77999999999997</xmax>
+      <ymax>350.29</ymax>
     </bndbox>
   </object>
 </annotation>

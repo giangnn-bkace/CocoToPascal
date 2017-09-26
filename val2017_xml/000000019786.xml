@@ -13,30 +13,57 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>couch</name>
+    <bndbox>
+      <xmin>71.27</xmin>
+      <ymin>58.92</ymin>
+      <xmax>324.78</xmax>
+      <ymax>318.1</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>166.13</xmin>
+      <ymin>0.81</ymin>
+      <xmax>303.23</xmax>
+      <ymax>370.16</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>250.28</xmin>
+      <ymin>16.01</ymin>
+      <xmax>479.49</xmax>
+      <ymax>371.63</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>laptop</name>
     <bndbox>
-      <xmin>445.1</xmin>
-      <ymin>87.8</ymin>
-      <xmax>482.71000000000004</xmax>
-      <ymax>130.45999999999998</ymax>
+      <xmin>444.1</xmin>
+      <ymin>86.8</ymin>
+      <xmax>483.71000000000004</xmax>
+      <ymax>131.45999999999998</ymax>
     </bndbox>
   </object>
   <object>
     <name>remote</name>
     <bndbox>
-      <xmin>296.79</xmin>
-      <ymin>346.38</ymin>
-      <xmax>309.78000000000003</xmax>
-      <ymax>366.86</ymax>
+      <xmin>295.79</xmin>
+      <ymin>345.38</ymin>
+      <xmax>310.78000000000003</xmax>
+      <ymax>367.86</ymax>
     </bndbox>
   </object>
   <object>
     <name>remote</name>
     <bndbox>
-      <xmin>255.29</xmin>
-      <ymin>74.28</ymin>
-      <xmax>262.52</xmax>
-      <ymax>90.94</ymax>
+      <xmin>254.29</xmin>
+      <ymin>73.28</ymin>
+      <xmax>263.52</xmax>
+      <ymax>91.94</ymax>
     </bndbox>
   </object>
 </annotation>

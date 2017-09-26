@@ -13,21 +13,48 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>bowl</name>
+    <bndbox>
+      <xmin>16.51</xmin>
+      <ymin>1.55</ymin>
+      <xmax>451.84</xmax>
+      <ymax>330.3</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>person</name>
     <bndbox>
-      <xmin>443.59</xmin>
-      <ymin>3.7</ymin>
-      <xmax>499.0</xmax>
-      <ymax>102.79</ymax>
+      <xmin>442.59</xmin>
+      <ymin>2.7</ymin>
+      <xmax>500.0</xmax>
+      <ymax>103.79</ymax>
     </bndbox>
   </object>
   <object>
     <name>banana</name>
     <bndbox>
-      <xmin>250.85</xmin>
-      <ymin>182.31</ymin>
-      <xmax>327.78999999999996</xmax>
-      <ymax>225.43</ymax>
+      <xmin>249.85</xmin>
+      <ymin>181.31</ymin>
+      <xmax>328.78999999999996</xmax>
+      <ymax>226.43</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>banana</name>
+    <bndbox>
+      <xmin>167.28</xmin>
+      <ymin>157.33</ymin>
+      <xmax>247.71</xmax>
+      <ymax>217.75</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>0.87</xmin>
+      <ymin>2.6</ymin>
+      <xmax>170.9</xmax>
+      <ymax>327.93</ymax>
     </bndbox>
   </object>
 </annotation>

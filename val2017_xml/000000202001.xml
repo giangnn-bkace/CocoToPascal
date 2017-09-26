@@ -13,12 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>couch</name>
+    <bndbox>
+      <xmin>0.99</xmin>
+      <ymin>284.53</ymin>
+      <xmax>500.0</xmax>
+      <ymax>461.0</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>cell phone</name>
     <bndbox>
-      <xmin>45.24</xmin>
-      <ymin>229.57</ymin>
-      <xmax>84.28999999999999</xmax>
-      <ymax>275.46999999999997</ymax>
+      <xmin>44.24</xmin>
+      <ymin>228.57</ymin>
+      <xmax>85.28999999999999</xmax>
+      <ymax>276.46999999999997</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>51.57</xmin>
+      <ymin>50.63</ymin>
+      <xmax>455.84</xmax>
+      <ymax>455.94</ymax>
     </bndbox>
   </object>
 </annotation>

@@ -13,12 +13,30 @@
   </size>
   <segmented>0</segmented>
   <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>239.82</xmin>
+      <ymin>184.56</ymin>
+      <xmax>368.4</xmax>
+      <ymax>593.4100000000001</ymax>
+    </bndbox>
+  </object>
+  <object>
     <name>snowboard</name>
     <bndbox>
-      <xmin>107.3</xmin>
-      <ymin>549.86</ymin>
-      <xmax>454.55</xmax>
-      <ymax>600.36</ymax>
+      <xmin>106.3</xmin>
+      <ymin>548.86</ymin>
+      <xmax>455.55</xmax>
+      <ymax>601.36</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>backpack</name>
+    <bndbox>
+      <xmin>268.82</xmin>
+      <ymin>247.06</ymin>
+      <xmax>390.39</xmax>
+      <ymax>425.42</ymax>
     </bndbox>
   </object>
 </annotation>

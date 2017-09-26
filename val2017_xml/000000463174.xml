@@ -15,10 +15,28 @@
   <object>
     <name>sports ball</name>
     <bndbox>
-      <xmin>104.73</xmin>
-      <ymin>245.67</ymin>
-      <xmax>129.86</xmax>
-      <ymax>269.78</ymax>
+      <xmin>103.73</xmin>
+      <ymin>244.67</ymin>
+      <xmax>130.86</xmax>
+      <ymax>270.78</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>218.75</xmin>
+      <ymin>15.46</ymin>
+      <xmax>520.62</xmax>
+      <ymax>425.27</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tennis racket</name>
+    <bndbox>
+      <xmin>10.56</xmin>
+      <ymin>233.17</ymin>
+      <xmax>228.37</xmax>
+      <ymax>336.79999999999995</ymax>
     </bndbox>
   </object>
 </annotation>
