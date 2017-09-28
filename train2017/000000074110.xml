@@ -1,0 +1,60 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000074110.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>640</width>
+    <height>426</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>train</name>
+    <bndbox>
+      <xmin>78.5</xmin>
+      <ymin>89.99</ymin>
+      <xmax>426.96</xmax>
+      <ymax>329.31</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>82.83</xmin>
+      <ymin>202.91</ymin>
+      <xmax>93.53</xmax>
+      <ymax>228.32999999999998</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>107.01</xmin>
+      <ymin>205.42</ymin>
+      <xmax>116.10000000000001</xmax>
+      <ymax>224.06</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>fire hydrant</name>
+    <bndbox>
+      <xmin>42.08</xmin>
+      <ymin>237.95</ymin>
+      <xmax>56.43</xmax>
+      <ymax>279.78</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>fire hydrant</name>
+    <bndbox>
+      <xmin>67.72</xmin>
+      <ymin>212.0</ymin>
+      <xmax>70.59</xmax>
+      <ymax>221.75</ymax>
+    </bndbox>
+  </object>
+</annotation>

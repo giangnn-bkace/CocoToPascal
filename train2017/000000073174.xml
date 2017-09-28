@@ -1,0 +1,60 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000073174.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>640</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>234.43</xmin>
+      <ymin>24.45</ymin>
+      <xmax>629.9300000000001</xmax>
+      <ymax>635.69</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>48.23</xmin>
+      <ymin>149.63</ymin>
+      <xmax>200.98</xmax>
+      <ymax>385.64</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>animal</name>
+    <bndbox>
+      <xmin>149.59</xmin>
+      <ymin>173.49</ymin>
+      <xmax>327.6</xmax>
+      <ymax>575.12</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>scissors</name>
+    <bndbox>
+      <xmin>61.97</xmin>
+      <ymin>231.48</ymin>
+      <xmax>76.03999999999999</xmax>
+      <ymax>254.70999999999998</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>hair drier</name>
+    <bndbox>
+      <xmin>1.95</xmin>
+      <ymin>447.43</ymin>
+      <xmax>88.60000000000001</xmax>
+      <ymax>494.4</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000279837.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>640</width>
+    <height>519</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>animal</name>
+    <bndbox>
+      <xmin>381.72</xmin>
+      <ymin>286.01</ymin>
+      <xmax>539.09</xmax>
+      <ymax>382.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>stop sign</name>
+    <bndbox>
+      <xmin>97.97</xmin>
+      <ymin>88.28</ymin>
+      <xmax>195.94</xmax>
+      <ymax>190.92000000000002</ymax>
+    </bndbox>
+  </object>
+</annotation>

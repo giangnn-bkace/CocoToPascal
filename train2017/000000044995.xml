@@ -1,0 +1,33 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000044995.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>424</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bottle</name>
+    <bndbox>
+      <xmin>302.42</xmin>
+      <ymin>293.02</ymin>
+      <xmax>331.31</xmax>
+      <ymax>335.84</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>toilet</name>
+    <bndbox>
+      <xmin>135.05</xmin>
+      <ymin>198.53</ymin>
+      <xmax>261.22</xmax>
+      <ymax>416.90999999999997</ymax>
+    </bndbox>
+  </object>
+</annotation>

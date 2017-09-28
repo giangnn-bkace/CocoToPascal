@@ -1,0 +1,51 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000378970.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>500</width>
+    <height>375</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>130.27</xmin>
+      <ymin>171.24</ymin>
+      <xmax>144.95000000000002</xmax>
+      <ymax>184.92000000000002</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>125.82</xmin>
+      <ymin>168.82</ymin>
+      <xmax>260.19</xmax>
+      <ymax>375.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>baseball bat</name>
+    <bndbox>
+      <xmin>104.12</xmin>
+      <ymin>184.12</ymin>
+      <xmax>245.42000000000002</xmax>
+      <ymax>219.5</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>baseball glove</name>
+    <bndbox>
+      <xmin>399.22</xmin>
+      <ymin>245.97</ymin>
+      <xmax>432.19000000000005</xmax>
+      <ymax>287.19</ymax>
+    </bndbox>
+  </object>
+</annotation>

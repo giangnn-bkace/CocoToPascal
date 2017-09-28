@@ -1,0 +1,42 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000380007.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>427</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>210.45</xmin>
+      <ymin>192.86</ymin>
+      <xmax>350.27</xmax>
+      <ymax>631.06</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>118.1</ymin>
+      <xmax>258.6</xmax>
+      <ymax>632.4200000000001</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>toothbrush</name>
+    <bndbox>
+      <xmin>67.19</xmin>
+      <ymin>250.45</ymin>
+      <xmax>186.88</xmax>
+      <ymax>293.15</ymax>
+    </bndbox>
+  </object>
+</annotation>

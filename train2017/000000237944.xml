@@ -1,0 +1,51 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000237944.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>480</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>animal</name>
+    <bndbox>
+      <xmin>24.84</xmin>
+      <ymin>348.96</ymin>
+      <xmax>102.44</xmax>
+      <ymax>466.51</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chair</name>
+    <bndbox>
+      <xmin>171.4</xmin>
+      <ymin>212.53</ymin>
+      <xmax>436.79999999999995</xmax>
+      <ymax>537.37</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>236.73</xmin>
+      <ymin>126.62</ymin>
+      <xmax>406.02</xmax>
+      <ymax>616.6</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>hair drier</name>
+    <bndbox>
+      <xmin>230.22</xmin>
+      <ymin>60.33</ymin>
+      <xmax>357.53</xmax>
+      <ymax>182.86</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,60 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000083844.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>umbrella</name>
+    <bndbox>
+      <xmin>523.45</xmin>
+      <ymin>202.64</ymin>
+      <xmax>585.51</xmax>
+      <ymax>246.7</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>201.75</xmin>
+      <ymin>256.85</ymin>
+      <xmax>583.52</xmax>
+      <ymax>380.62</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>fire hydrant</name>
+    <bndbox>
+      <xmin>79.79</xmin>
+      <ymin>304.52</ymin>
+      <xmax>108.72</xmax>
+      <ymax>364.62</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>535.54</xmin>
+      <ymin>215.32</ymin>
+      <xmax>589.3199999999999</xmax>
+      <ymax>325.65999999999997</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>stop sign</name>
+    <bndbox>
+      <xmin>608.11</xmin>
+      <ymin>98.35</ymin>
+      <xmax>621.94</xmax>
+      <ymax>151.62</ymax>
+    </bndbox>
+  </object>
+</annotation>

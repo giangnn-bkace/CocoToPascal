@@ -1,0 +1,51 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000451287.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>640</width>
+    <height>359</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>refrigerator</name>
+    <bndbox>
+      <xmin>385.62</xmin>
+      <ymin>74.22</ymin>
+      <xmax>521.16</xmax>
+      <ymax>244.44</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>microwave</name>
+    <bndbox>
+      <xmin>17.75</xmin>
+      <ymin>74.78</ymin>
+      <xmax>143.6</xmax>
+      <ymax>124.80000000000001</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>oven</name>
+    <bndbox>
+      <xmin>17.02</xmin>
+      <ymin>155.19</ymin>
+      <xmax>177.47</xmax>
+      <ymax>357.78</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bowl</name>
+    <bndbox>
+      <xmin>66.13</xmin>
+      <ymin>135.17</ymin>
+      <xmax>119.05</xmax>
+      <ymax>154.76</ymax>
+    </bndbox>
+  </object>
+</annotation>

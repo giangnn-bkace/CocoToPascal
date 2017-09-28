@@ -1,0 +1,42 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000215776.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bottle</name>
+    <bndbox>
+      <xmin>346.23</xmin>
+      <ymin>187.07</ymin>
+      <xmax>387.92</xmax>
+      <ymax>284.51</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>fire hydrant</name>
+    <bndbox>
+      <xmin>237.3</xmin>
+      <ymin>116.16</ymin>
+      <xmax>409.89</xmax>
+      <ymax>413.87</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>120.89</xmin>
+      <ymin>21.33</ymin>
+      <xmax>411.26</xmax>
+      <ymax>379.26</ymax>
+    </bndbox>
+  </object>
+</annotation>

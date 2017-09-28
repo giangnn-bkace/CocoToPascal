@@ -1,0 +1,51 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000433221.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>612</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>knife</name>
+    <bndbox>
+      <xmin>255.36</xmin>
+      <ymin>333.46</ymin>
+      <xmax>429.87</xmax>
+      <ymax>509.63</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cup</name>
+    <bndbox>
+      <xmin>100.07</xmin>
+      <ymin>342.03</ymin>
+      <xmax>269.86</xmax>
+      <ymax>533.24</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>126.93</xmin>
+      <ymin>427.64</ymin>
+      <xmax>612.0</xmax>
+      <ymax>604.44</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cup</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>195.05</ymin>
+      <xmax>117.0</xmax>
+      <ymax>370.13</ymax>
+    </bndbox>
+  </object>
+</annotation>

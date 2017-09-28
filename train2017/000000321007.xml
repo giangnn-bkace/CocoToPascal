@@ -1,0 +1,33 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000321007.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>500</width>
+    <height>333</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sink</name>
+    <bndbox>
+      <xmin>384.63</xmin>
+      <ymin>263.28</ymin>
+      <xmax>500.0</xmax>
+      <ymax>328.39</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>hair drier</name>
+    <bndbox>
+      <xmin>355.21</xmin>
+      <ymin>112.78</ymin>
+      <xmax>413.35999999999996</xmax>
+      <ymax>175.37</ymax>
+    </bndbox>
+  </object>
+</annotation>

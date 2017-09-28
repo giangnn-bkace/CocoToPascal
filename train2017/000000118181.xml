@@ -1,0 +1,51 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000118181.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>couch</name>
+    <bndbox>
+      <xmin>34.06</xmin>
+      <ymin>274.58</ymin>
+      <xmax>460.39</xmax>
+      <ymax>406.71</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>160.81</xmin>
+      <ymin>191.14</ymin>
+      <xmax>289.48</xmax>
+      <ymax>456.58</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sink</name>
+    <bndbox>
+      <xmin>352.4</xmin>
+      <ymin>195.57</ymin>
+      <xmax>640.0</xmax>
+      <ymax>422.79999999999995</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>handbag</name>
+    <bndbox>
+      <xmin>171.39</xmin>
+      <ymin>359.89</ymin>
+      <xmax>243.33999999999997</xmax>
+      <ymax>462.83</ymax>
+    </bndbox>
+  </object>
+</annotation>

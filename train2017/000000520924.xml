@@ -1,0 +1,42 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000520924.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>427</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cup</name>
+    <bndbox>
+      <xmin>46.02</xmin>
+      <ymin>256.0</ymin>
+      <xmax>277.57</xmax>
+      <ymax>563.78</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>microwave</name>
+    <bndbox>
+      <xmin>73.63</xmin>
+      <ymin>0.0</ymin>
+      <xmax>374.24</xmax>
+      <ymax>172.26</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>oven</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>242.89</ymin>
+      <xmax>328.58</xmax>
+      <ymax>425.38</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,42 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000489949.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>tv</name>
+    <bndbox>
+      <xmin>160.36</xmin>
+      <ymin>112.95</ymin>
+      <xmax>413.27</xmax>
+      <ymax>289.45</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>487.54</xmin>
+      <ymin>327.54</ymin>
+      <xmax>531.84</xmax>
+      <ymax>366.57000000000005</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>keyboard</name>
+    <bndbox>
+      <xmin>99.87</xmin>
+      <ymin>304.0</ymin>
+      <xmax>433.83</xmax>
+      <ymax>369.5</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000024776.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>612</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>66.14</xmin>
+      <ymin>19.97</ymin>
+      <xmax>432.46</xmax>
+      <ymax>605.08</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>frisbee</name>
+    <bndbox>
+      <xmin>94.89</xmin>
+      <ymin>27.28</ymin>
+      <xmax>427.71</xmax>
+      <ymax>313.33000000000004</ymax>
+    </bndbox>
+  </object>
+</annotation>

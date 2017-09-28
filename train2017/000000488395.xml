@@ -1,0 +1,33 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000488395.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>640</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>parking meter</name>
+    <bndbox>
+      <xmin>10.81</xmin>
+      <ymin>333.08</ymin>
+      <xmax>58.25</xmax>
+      <ymax>441.77</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>152.1</xmin>
+      <ymin>357.61</ymin>
+      <xmax>275.9</xmax>
+      <ymax>579.9200000000001</ymax>
+    </bndbox>
+  </object>
+</annotation>

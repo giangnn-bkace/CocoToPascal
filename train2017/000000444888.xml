@@ -1,0 +1,60 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000444888.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>500</width>
+    <height>375</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>22.74</xmin>
+      <ymin>362.14</ymin>
+      <xmax>39.31999999999999</xmax>
+      <ymax>375.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>truck</name>
+    <bndbox>
+      <xmin>53.18</xmin>
+      <ymin>356.85</ymin>
+      <xmax>109.93</xmax>
+      <ymax>371.65000000000003</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>41.06</xmin>
+      <ymin>360.61</ymin>
+      <xmax>63.83</xmax>
+      <ymax>368.32</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chair</name>
+    <bndbox>
+      <xmin>155.15</xmin>
+      <ymin>266.21</ymin>
+      <xmax>162.1</xmax>
+      <ymax>281.23999999999995</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <bndbox>
+      <xmin>420.74</xmin>
+      <ymin>189.89</ymin>
+      <xmax>430.21000000000004</xmax>
+      <ymax>199.20999999999998</ymax>
+    </bndbox>
+  </object>
+</annotation>

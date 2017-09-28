@@ -1,0 +1,42 @@
+<annotation>
+  <folder>/home/nng/util/CocoToPascal/images</folder>
+  <filename>000000114333.jpg</filename>
+  <source>
+    <database>MS COCO 2017</database>
+    <annotation>MS COCO 2017</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>640</width>
+    <height>426</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>276.54</xmin>
+      <ymin>187.26</ymin>
+      <xmax>303.04</xmax>
+      <ymax>246.68</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>152.63</xmin>
+      <ymin>169.53</ymin>
+      <xmax>204.26</xmax>
+      <ymax>222.26</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>571.72</xmin>
+      <ymin>254.12</ymin>
+      <xmax>617.63</xmax>
+      <ymax>352.34000000000003</ymax>
+    </bndbox>
+  </object>
+</annotation>
